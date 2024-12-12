@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors
 
 
-[Image of the Rock, Paper, Scissors game interface](https://github.com/rasoolzada/RockPaperScissors_WindowsForms/blob/master/RockPaperScissors_WindowsForms/Img.PNG?raw=true)
+[Image of the Rock, Paper, Scissors game interface](https://github.com/rasoolzada/RockPaperScissors_WindowsForms/blob/master/RockPaperScissors_WindowsForms/Img.PNG)
 
 ## Description
 
