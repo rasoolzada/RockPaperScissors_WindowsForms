@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors
 
 
-[Image](https://raw.githubusercontent.com/rasoolzada/RockPaperScissors_WindowsForms/refs/heads/master/RockPaperScissors_WindowsForms/Img.PNG)
+![Rock, Paper, Scissors game](RockPaperScissors_WindowsForms/Img.PNG)
 
 ## Description
 
