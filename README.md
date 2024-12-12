@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors
 
 
-[Image of the Rock, Paper, Scissors game interface](https://github.com/rasoolzada/RockPaperScissors_WindowsForms/blob/master/RockPaperScissors_WindowsForms/Img.PNG)
+[Image](https://raw.githubusercontent.com/rasoolzada/RockPaperScissors_WindowsForms/refs/heads/master/RockPaperScissors_WindowsForms/Img.PNG)
 
 ## Description
 
@@ -18,7 +18,7 @@ This repository contains a simple Rock, Paper, Scissors game implemented in C# u
 3. **Build and Run:**
  Build the solution and run the executable.
 
-##Gameplay
+## Gameplay
 1. Choose Your Move: Click one of the three buttons: Rock, Paper, or Scissors.
 2. Computer's Move: The computer will randomly choose one of the three options.
 3. Result: The game will display the result on the screen.
