@@ -119,7 +119,7 @@
             this.Controls.Add(this.paper);
             this.Controls.Add(this.rock);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "RockPaperScissors";
             this.ResumeLayout(false);
             this.PerformLayout();
 
